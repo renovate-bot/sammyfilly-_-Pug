@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "object-assign": "^4.1.1",
-    "pug-walk": "^1.1.8"
+    "pug-walk": "^2.0.0"
   },
   "devDependencies": {
     "pug-lexer": "^4.1.0",
