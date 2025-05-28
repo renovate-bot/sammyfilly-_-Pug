@@ -33,7 +33,7 @@
     "pug-load": "^2.0.12",
     "pug-parser": "^5.0.1",
     "pug-runtime": "^2.0.5",
-    "pug-strip-comments": "^1.0.4"
+    "pug-strip-comments": "^2.0.0"
   },
   "devDependencies": {
     "jstransformer-cdata": "^1.0.0",
